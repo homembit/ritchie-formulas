@@ -1,0 +1,4 @@
+{
+	"short": "MQTT Subscription tools",
+	"long": "MQTT Subscription toos for general purpose and one specifically to parse basic sensor data from the IoT Surfboard"
+}

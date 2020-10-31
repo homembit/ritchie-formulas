@@ -1,0 +1,4 @@
+{
+	"short": "run_mnist will train a MNIST CNN using the number of epochs and the early stop informed.",
+	"long": "run_mnist will train a MNIST CNN using the number of epochs informed. Experiment using a bigger number of epochs to see the impact on acuracy vs trainning time. If you want to run all epochs, set the early stop to the same value as epochs."
+}

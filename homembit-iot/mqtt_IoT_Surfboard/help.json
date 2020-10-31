@@ -1,0 +1,4 @@
+{
+	"short": "prints on the console 3 sensor values from the IoT Surfboard",
+	"long": "prints on the console the temperature, humidity and light sensor from the IoT Surfboard standard sensors command read from an MQTT Broker"
+}

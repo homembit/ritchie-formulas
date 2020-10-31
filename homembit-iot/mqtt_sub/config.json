@@ -1,0 +1,35 @@
+{
+  "dockerImageBuilder": "cimg/python:3.8",
+  "inputs": [
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Enter new broker address. ",
+        "qty": 6
+      },
+      "label": "MQTT Broker Address: ",
+      "name": "H_NAME",
+      "type": "text"
+    },
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Enter new port number. ",
+        "qty": 6
+      },
+      "label": "MQTT Broker Port : ",
+      "name": "H_PORT",
+      "type": "text"
+    },
+    {
+      "cache": {
+        "active": true,
+        "newLabel": "Enter new topic. ",
+        "qty": 6
+      },
+      "label": "Subscription Topic : ",
+      "name": "TOPIC",
+      "type": "text"
+    }
+  ]
+}

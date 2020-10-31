@@ -1,0 +1,25 @@
+{
+  "dockerImageBuilder": "cimg/python:3.8",
+  "inputs": [
+    {
+      "name" : "number_epochs",
+      "type" : "text",
+      "label" : "Number of epochs : ",
+      "cache" : {
+        "active": false,
+        "qty" : 3,
+        "newLabel" : "or type new value. "
+      }
+    },
+    {
+      "name" : "early_stop",
+      "type" : "text",
+      "label" : "Early stop after : ",
+      "cache" : {
+        "active": false,
+        "qty" : 3,
+        "newLabel" : "or type new value. "
+      }
+    }
+  ]
+}

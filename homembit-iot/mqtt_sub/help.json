@@ -1,0 +1,4 @@
+{
+	"short": "prints on the console the payload for a specific topic",
+	"long": "Given the hostname, port and topic, the command prints on the console the payload for a specific topic"
+}

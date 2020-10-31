@@ -1,0 +1,4 @@
+{
+	"short": "Check if the the libraries needed to run the formulas are installed.",
+	"long": "Check if the the libraries needed to run the formulas are installed, and inform the commands neeed to install the dependencies. "
+}
